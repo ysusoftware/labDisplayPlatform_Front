@@ -2642,7 +2642,7 @@ body {
 }
 
 .b-pricing .b-pricing-price__number {
-  font: 700 56px 'Roboto Condensed';
+  font: 200 20px 'Roboto Condensed';
   -webkit-transition: all 0.3s;
   transition: all 0.3s;
   text-transform: uppercase;
