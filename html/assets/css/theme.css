@@ -746,7 +746,7 @@ input::-moz-placeholder {
 
 .dropcap-1:first-letter {
   color: #333;
-  border-color: 6666666;
+  border-color: #666666;
 }
 
 .dropcap_sm:first-letter {
@@ -1057,8 +1057,8 @@ input::-moz-placeholder {
 
 .section-default {
   position: relative;
-  padding-top: 110px;
-  padding-bottom: 110px;
+  padding-top: 50px;  /*2018/12/12 王帅修改*/
+  padding-bottom: 50px;
 }
 
 .section-default_top-padd {
